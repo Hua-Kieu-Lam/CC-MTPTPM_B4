@@ -1,0 +1,7 @@
+D:\BAI HOC\NAM4\NAM4_HK1B\CC&MTPTPM\B5\TinhToan\TinhToan\TinhToan\bin\Debug\TinhToan.exe.config
+D:\BAI HOC\NAM4\NAM4_HK1B\CC&MTPTPM\B5\TinhToan\TinhToan\TinhToan\bin\Debug\TinhToan.exe
+D:\BAI HOC\NAM4\NAM4_HK1B\CC&MTPTPM\B5\TinhToan\TinhToan\TinhToan\bin\Debug\TinhToan.pdb
+D:\BAI HOC\NAM4\NAM4_HK1B\CC&MTPTPM\B5\TinhToan\TinhToan\TinhToan\obj\Debug\TinhToan.csproj.AssemblyReference.cache
+D:\BAI HOC\NAM4\NAM4_HK1B\CC&MTPTPM\B5\TinhToan\TinhToan\TinhToan\obj\Debug\TinhToan.csproj.CoreCompileInputs.cache
+D:\BAI HOC\NAM4\NAM4_HK1B\CC&MTPTPM\B5\TinhToan\TinhToan\TinhToan\obj\Debug\TinhToan.exe
+D:\BAI HOC\NAM4\NAM4_HK1B\CC&MTPTPM\B5\TinhToan\TinhToan\TinhToan\obj\Debug\TinhToan.pdb

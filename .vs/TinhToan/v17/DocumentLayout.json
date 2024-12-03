@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BAI HOC\\NAM4\\NAM4_HK1B\\CC\u0026MTPTPM\\B5\\TinhToan\\TinhToan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD3BD9A-AA21-45ED-8F00-D09213C151F2}|TinhToan\\TinhToan.csproj|d:\\bai hoc\\nam4\\nam4_hk1b\\cc\u0026mtptpm\\b5\\tinhtoan\\tinhtoan\\tinhtoan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD3BD9A-AA21-45ED-8F00-D09213C151F2}|TinhToan\\TinhToan.csproj|solutionrelative:tinhtoan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BAI HOC\\NAM4\\NAM4_HK1B\\CC\u0026MTPTPM\\B5\\TinhToan\\TinhToan\\TinhToan\\Program.cs",
+              "RelativeDocumentMoniker": "TinhToan\\Program.cs",
+              "ToolTip": "D:\\BAI HOC\\NAM4\\NAM4_HK1B\\CC\u0026MTPTPM\\B5\\TinhToan\\TinhToan\\TinhToan\\Program.cs",
+              "RelativeToolTip": "TinhToan\\Program.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAACUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:49:12.268Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
