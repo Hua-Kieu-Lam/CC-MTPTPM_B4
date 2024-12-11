@@ -1,0 +1,7 @@
+C:\CÔNG CỤ VÀ MT PHÁT TRIỂN PHẦN MỀM\demo01\CC-MTPTPM_B4\lab01_02\bin\Debug\lab01_02.exe.config
+C:\CÔNG CỤ VÀ MT PHÁT TRIỂN PHẦN MỀM\demo01\CC-MTPTPM_B4\lab01_02\bin\Debug\lab01_02.exe
+C:\CÔNG CỤ VÀ MT PHÁT TRIỂN PHẦN MỀM\demo01\CC-MTPTPM_B4\lab01_02\bin\Debug\lab01_02.pdb
+C:\CÔNG CỤ VÀ MT PHÁT TRIỂN PHẦN MỀM\demo01\CC-MTPTPM_B4\lab01_02\obj\Debug\lab01_02.csproj.AssemblyReference.cache
+C:\CÔNG CỤ VÀ MT PHÁT TRIỂN PHẦN MỀM\demo01\CC-MTPTPM_B4\lab01_02\obj\Debug\lab01_02.csproj.CoreCompileInputs.cache
+C:\CÔNG CỤ VÀ MT PHÁT TRIỂN PHẦN MỀM\demo01\CC-MTPTPM_B4\lab01_02\obj\Debug\lab01_02.exe
+C:\CÔNG CỤ VÀ MT PHÁT TRIỂN PHẦN MỀM\demo01\CC-MTPTPM_B4\lab01_02\obj\Debug\lab01_02.pdb
